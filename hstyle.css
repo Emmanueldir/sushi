@@ -1,0 +1,70 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url( 'restaurant 1.png') ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    max-width: 1440px;
+}
+.case{
+    margin: 100px;
+    padding: 50px;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 110px;
+    font-family: sans-serif;
+}
+
+.welcome{
+    text-align: center;
+    font-size: 4rem;
+    color: #fff;
+}
+
+p{
+    text-align: center;
+    font-size: 1.5rem;
+    color: #fff;
+}
+
+.oclick{
+    display: flex;     
+}
+
+a:link, a:visited, a:active, a:hover {
+    background-color: #fff;
+    color: black;
+    margin: 20px;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border: 10px solid white;
+    border-radius: 8px;
+    width: 200px;
+    position: relative;
+    top: 410px;
+    left: 400px;
+    font-size: 1.1rem;
+}
+
+.hsign{
+    display: flex;
+    gap: 1190px;
+    margin: 20px;
+    position: relative;
+    top: 440px;
+}
+
+.sign{
+    color: #fff;
+    border: 10px solid rgb(255, 255, 255)0.2;
+    font-size: 2.5rem;
+    
+}
