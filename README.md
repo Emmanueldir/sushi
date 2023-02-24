@@ -1,1 +1,1 @@
-# sushi
+# sushi restuarant app template.
